@@ -1,0 +1,6 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.y91.fuyun.mylibrary" >
+    <application android:theme="@style/Theme.AppCompat.Light.NoActionBar">
+        <meta-data android:name="sss" android:value="sss"/>
+    </application>
+</manifest>
